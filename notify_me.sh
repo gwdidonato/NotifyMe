@@ -7,7 +7,7 @@ $*
 end_time="$(date)"
 
 #Setting notification mail content
-to_address="example@google.com"
+to_address="example@gmail.com"
 subject="Notification: Job Done @$host_name"
 mail_text="Subject: $subject
 
